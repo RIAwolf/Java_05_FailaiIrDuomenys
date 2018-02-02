@@ -1,0 +1,5 @@
+Petras1|21|181|ruda
+Petras2|22|182|zalia
+Petras3|23|184|geltona
+Petras4|24|183|Raudona
+jonas|25|250|melyna
